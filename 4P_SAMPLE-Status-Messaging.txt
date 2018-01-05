@@ -1,0 +1,15 @@
+
+
+DEFINITIONS / BEHAVIOR
+1--Normal Operations 
+2--4P / XSB Service Degradation. [Application Loads / Optional Website Redirect ]
+3--4P / XSB Service is Down. [Application Shut Down / Optional Website Redirect]
+
+SAMPLE MESSAGES
+1--4P / XSB Service is Operational
+
+2--XSB Service Degradation: We are currently experiencing a service interruption with our market research provider. You can submit jobs, but expect delayed results.
+
+2--Known Issue / Workaround: 4P is currently generating "Error 3709: The search key was not found in any record." For a workaround, please see our FAQ.--https://sites.google.com/a/gsa.gov/4p/faq#foobar
+
+3--4P service is down due to GSA-wide Access Card / Credentials issues.--https://sites.google.com/a/gsa.gov/4p/announcements/4pserviceisdown
