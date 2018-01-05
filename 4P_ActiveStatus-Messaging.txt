@@ -1,1 +1,1 @@
-2--Known Issue / Workaround: 4P is currently generating "Error 3709: The search key was not found in any record." We are actively working on a solution.
+2--Known Issue: 4P is currently generating "Error 3709: The search key was not found in any record," for certain files. We are actively working on a solution.
