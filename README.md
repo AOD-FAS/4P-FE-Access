@@ -7,7 +7,7 @@ This repository controls access to the 4P Front End.
 ***Active Versions***
 Only active versions of 4P are allowed to launch. Update file "4P_ActiveVersions.txt" with version numbers that are compatible with current PDI backend. This number must also be an exact match with value given within the FE itself at lutbl_VersionCurrent.
 
-Each active version is listed in "4P_ActiveVersions.txt", and are separated by a line feed. The 4P front end (2018.01.05) recognizes Windows line endings (CrLf) as the delimiter. IMPORTANT: Do not update this file via the browser, this will add Linux-style line feeds (Lf) and will cause the FE to detect the version as out-of-date. <<<TODO: fix this so it works both ways! 
+Each active version is listed in "4P_ActiveVersions.txt", and are separated by a line feed. The 4P front end (2018.01.05) recognizes Windows line endings (CrLf) as the delimiter. IMPORTANT: Do not recreate this file via the browser, this will add Linux-style line feeds (Lf) and will cause the FE to detect the version as out-of-date. <<<TODO: fix this so it works both ways! 
 
 ***Active System Status and Messaging***
 
