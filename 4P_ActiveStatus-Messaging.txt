@@ -1,1 +1,1 @@
-2--4P Service Degradation: GSA is currently experiencing VPN / Office Network connectivity issues in Regions 1, 2, 3, 4, Asia and the Nation Capital Region. You can submit jobs, but expect delayed results.
+1--4P is Operational
