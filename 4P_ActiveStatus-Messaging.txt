@@ -1,1 +1,1 @@
-2--Some users are unable to launch the 4P Application. We are working to determine the root cause of this partial outage and will update ASAP. 
+2--Some users were unable to launch the 4P Application. We've released a new version.--https://sites.google.com/a/gsa.gov/4p/announcements/newversionof4preleased01312018
