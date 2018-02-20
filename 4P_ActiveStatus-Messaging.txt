@@ -1,1 +1,1 @@
-2--Due to quality control issues, 4P is currently not transmitting jobs to XSB. We will resume processing jobs once XSB ensures their system is running properly. You can continue to submit jobs, but expect delayed results. Thank you for your patience.
+1--4P is operational.
