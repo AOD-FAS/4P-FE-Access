@@ -1,1 +1,1 @@
-1--4P is Operational.
+2--Due to a recent update to XSB's API, we are suspending transmission of jobs to XSB until we can verify the update. You can continue to sumbit jobs via 4P,but expect delayed results.
