@@ -1,1 +1,1 @@
-2--2018-06-22: XSB's system is down. You can submit jobs via 4P, but they will not be sent to XSB until their system is back online.
+2018-06-22: XSB's system is down. You can submit jobs via 4P, but they will not be sent to XSB until their system is back online.
