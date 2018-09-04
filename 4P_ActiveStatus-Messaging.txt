@@ -1,2 +1,2 @@
 04-09-2018
-XSB's service is still down. We are suspending transmission of jobs to XSB at this time. We will resume after the current backlog is processed and we are confident the issue has been addressed. As always, please do not resubmit any jobs until your results are received.
+XSB's service is still down. We are suspending the transmission of jobs to XSB at this time. We will resume after the current backlog is processed and we are confident the issue has been addressed. As always, please do not resubmit any jobs until your results are received.
