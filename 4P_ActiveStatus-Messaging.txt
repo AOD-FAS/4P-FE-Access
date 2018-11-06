@@ -1,1 +1,1 @@
-4P is fully Operational.
+We have suspended transmission of files to XSB, as their API Update has gone over schedule. You can continue to upload via 4P, but expect delayed results.
