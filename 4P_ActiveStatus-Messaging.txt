@@ -1,1 +1,1 @@
-4P is fully operational.
+4P will suspend transmission and processing of jobs at the close of business on Wednesday, 21 November 2018. You can submit jobs after this time, but they will not be processed until Monday, 26 November 2018.
