@@ -1,1 +1,1 @@
-4P is operational, but AOD may delay sending files to XSB to give priority to backlogged jobs.
+4P is fully operational.
