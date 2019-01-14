@@ -1,1 +1,1 @@
-4P is fully operational.
+2019-01-14: 4P is experiencing database connection issues, and is suspending operations. AOD has opened a ticket with GSA-IT, and hope to have service restored soon.
